@@ -1,3 +1,5 @@
-# resume
+# tips
+great repository names are short and memorable. Need inspiration? I got you
 
-click to visit website: https://amarhisaac.github.io/resume/
+
+Click to visit website: https://amarhisaac.github.io/resume/
